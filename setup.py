@@ -9,7 +9,7 @@ setup(
     description='A File reading Python package',
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url='https://github.com/shuds13/pyexample',
+    url='https://github.com/VidyaSagarKomhar/pfile.git@v0.1.0-beta',
     author='VidyaSagarKomhar',
     author_email='vidya.sagar@komhar.com',
     license='Komhar',
