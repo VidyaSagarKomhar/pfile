@@ -10,8 +10,8 @@ setup(
     long_description = long_description,
     long_description_content_type = "text/markdown",
     url='https://github.com/shuds13/pyexample',
-    author='Vidya Sagar',
-    author_email='shudson@anl.gov',
+    author='VidyaSagarKomhar',
+    author_email='vidya.sagar@komhar.com',
     license='Komhar',
     packages=['pfile'],
     
