@@ -13,7 +13,7 @@ setup(
     author='VidyaSagarKomhar',
     author_email='vidya.sagar@komhar.com',
     license='Komhar',
-    packages=['pfile'],
+    packages=['pfile','pfile.pfile'],
     
     classifiers=[
         'Development Status :: 1 - Planning',
